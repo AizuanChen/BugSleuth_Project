@@ -1,0 +1,5 @@
+com.google.javascript.jscomp.TypedScopeCreator#314
+com.google.javascript.jscomp.TypedScopeCreator#332
+com.google.javascript.jscomp.parsing.JsDocInfoParser#2404
+com.google.javascript.jscomp.parsing.JsDocInfoParser#2399
+com.google.javascript.jscomp.TypedScopeCreator#884

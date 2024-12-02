@@ -1,0 +1,5 @@
+com.google.javascript.jscomp.JSModuleGraph#212
+com.google.javascript.rhino.jstype.NamedType#173
+com.google.javascript.jscomp.Compiler#1584
+com.google.javascript.jscomp.SanityCheck#122
+com.google.javascript.jscomp.Compiler#1585

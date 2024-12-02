@@ -1,0 +1,5 @@
+org.jsoup.select.Selector#187
+org.jsoup.select.Selector#429
+org.jsoup.select.Selector#428
+org.jsoup.select.ng.parser.Parser#282
+org.jsoup.select.Selector#306

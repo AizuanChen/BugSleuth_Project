@@ -1,0 +1,5 @@
+com.google.gson.internal.UnsafeAllocator#48
+com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper#45
+com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper#54
+com.google.gson.internal.UnsafeAllocator#42
+com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper#53

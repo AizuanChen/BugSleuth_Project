@@ -1,0 +1,5 @@
+com.google.javascript.rhino.jstype.JSTypeRegistry#1342
+com.google.javascript.jscomp.parsing.JsDocInfoParser#1342
+com.google.javascript.jscomp.parsing.JsDocInfoParser#1349
+com.google.javascript.jscomp.TypeValidator#360
+com.google.javascript.jscomp.TypeValidator#359

@@ -1,0 +1,5 @@
+com.google.javascript.jscomp.TypeInference#142
+com.google.javascript.jscomp.PureFunctionIdentifier#180
+com.google.javascript.jscomp.PureFunctionIdentifier#206
+com.google.javascript.jscomp.PureFunctionIdentifier#147
+com.google.javascript.jscomp.PureFunctionIdentifier#262

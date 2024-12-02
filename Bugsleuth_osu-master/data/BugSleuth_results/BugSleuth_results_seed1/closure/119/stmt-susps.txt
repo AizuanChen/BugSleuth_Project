@@ -1,0 +1,5 @@
+com.google.javascript.jscomp.CheckGlobalNames#220
+com.google.javascript.jscomp.AstValidator#539
+com.google.javascript.jscomp.CheckUnreachableCode#35
+com.google.javascript.jscomp.CompilerOptions#334
+com.google.javascript.jscomp.AstValidator#543

@@ -1,0 +1,5 @@
+com.google.javascript.jscomp.BasicErrorManager#170
+com.google.javascript.jscomp.JsMessageVisitor#189
+com.google.javascript.jscomp.JsMessageVisitor#196
+com.google.javascript.jscomp.JsMessageVisitor#941
+com.google.javascript.jscomp.CommandLineRunner#806

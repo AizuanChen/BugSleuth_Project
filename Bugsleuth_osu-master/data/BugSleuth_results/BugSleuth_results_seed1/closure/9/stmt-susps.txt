@@ -1,0 +1,5 @@
+com.google.javascript.jscomp.TransformAMDToCJSModule#60
+com.google.javascript.jscomp.Compiler#1320
+com.google.javascript.jscomp.TransformAMDToCJSModule#59
+com.google.javascript.jscomp.ProcessCommonJSModules#54
+com.google.javascript.jscomp.TransformAMDToCJSModule#181

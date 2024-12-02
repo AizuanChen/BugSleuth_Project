@@ -1,0 +1,5 @@
+org.apache.commons.compress.archivers.tar.TarArchiveEntry#734
+org.apache.commons.compress.archivers.tar.TarArchiveEntry#806
+org.apache.commons.compress.archivers.tar.TarArchiveOutputStream#304
+org.apache.commons.compress.archivers.tar.TarArchiveOutputStream#281
+org.apache.commons.compress.archivers.tar.TarArchiveOutputStream#462

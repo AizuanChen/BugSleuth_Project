@@ -1,0 +1,5 @@
+org.apache.commons.math.analysis.solvers.RegulaFalsiSolver#52
+org.apache.commons.math.analysis.solvers.BaseSecantSolver#188
+org.apache.commons.math.analysis.solvers.BaseSecantSolver#239
+org.apache.commons.math.analysis.solvers.RegulaFalsiSolver#51
+org.apache.commons.math.analysis.solvers.BaseSecantSolver#189

@@ -1,0 +1,5 @@
+org.apache.commons.collections4.functors.PrototypeFactory#80
+org.apache.commons.collections4.functors.InvokerTransformer#136
+org.apache.commons.collections4.map.MultiValueMap#165
+org.apache.commons.collections4.map.AbstractMapDecorator#130
+org.apache.commons.collections4.map.MultiValueMap#164

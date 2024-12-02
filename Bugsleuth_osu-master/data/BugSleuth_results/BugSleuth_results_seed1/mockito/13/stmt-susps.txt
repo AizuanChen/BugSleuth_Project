@@ -1,0 +1,5 @@
+org.mockito.internal.creation.jmock.ClassImposterizer#86
+org.mockito.Mockito#1139
+org.mockito.internal.creation.jmock.ClassImposterizer#64
+org.mockito.internal.creation.jmock.ClassImposterizer#65
+org.mockito.internal.invocation.Invocation#174

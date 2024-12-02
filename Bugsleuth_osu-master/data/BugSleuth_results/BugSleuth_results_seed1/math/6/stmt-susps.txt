@@ -1,0 +1,5 @@
+org.apache.commons.math3.optim.BaseOptimizer#93
+org.apache.commons.math3.linear.RealVector#1249
+org.apache.commons.math3.optim.nonlinear.vector.jacobian.LevenbergMarquardtOptimizer#316
+org.apache.commons.math3.optim.nonlinear.vector.jacobian.LevenbergMarquardtOptimizer#310
+org.apache.commons.math3.linear.TriDiagonalTransformer#231

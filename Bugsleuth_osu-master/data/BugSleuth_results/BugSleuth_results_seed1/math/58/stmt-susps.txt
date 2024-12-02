@@ -1,0 +1,5 @@
+org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer#680
+org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer#674
+org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer#676
+org.apache.commons.math.optimization.fitting.GaussianFitter#83
+org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer#675

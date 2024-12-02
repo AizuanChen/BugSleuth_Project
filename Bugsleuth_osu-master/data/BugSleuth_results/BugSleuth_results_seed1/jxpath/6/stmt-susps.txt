@@ -1,0 +1,5 @@
+org.apache.commons.jxpath.ri.model.VariablePointer#269
+org.apache.commons.jxpath.ri.InfoSetUtil#62
+org.apache.commons.jxpath.ri.compiler.CoreOperationCompare#58
+org.apache.commons.jxpath.ri.model.VariablePointer#97
+org.apache.commons.jxpath.ri.model.VariablePointer#279

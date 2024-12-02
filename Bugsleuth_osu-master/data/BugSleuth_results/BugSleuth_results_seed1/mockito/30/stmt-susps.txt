@@ -1,0 +1,5 @@
+org.mockito.internal.runners.RunnerFactory#27
+org.mockito.exceptions.verification.SmartNullPointerException#15
+org.mockito.exceptions.verification.SmartNullPointerException#14
+org.mockito.runners.ConsoleSpammingMockitoJUnitRunner#104
+org.mockito.exceptions.Reporter#439

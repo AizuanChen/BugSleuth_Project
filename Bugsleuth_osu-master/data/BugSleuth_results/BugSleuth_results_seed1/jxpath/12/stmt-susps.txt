@@ -1,0 +1,5 @@
+org.apache.commons.jxpath.JXPathException#90
+org.apache.commons.jxpath.JXPathException#88
+org.apache.commons.jxpath.JXPathException#89
+org.apache.commons.jxpath.ri.NamespaceResolver#63
+org.apache.commons.jxpath.ri.NamespaceResolver#61

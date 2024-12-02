@@ -1,0 +1,5 @@
+com.google.gson.GsonBuilder#493
+com.google.gson.GsonBuilder#497
+com.google.gson.stream.JsonReader#575
+com.google.gson.internal.bind.TypeAdapters#645
+com.google.gson.internal.bind.TypeAdapters#647

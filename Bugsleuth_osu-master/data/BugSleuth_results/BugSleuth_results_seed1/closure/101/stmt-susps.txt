@@ -1,0 +1,5 @@
+com.google.javascript.jscomp.DefaultPassConfig#740
+com.google.javascript.jscomp.ProcessClosurePrimitives#171
+com.google.javascript.jscomp.CommandLineRunner#433
+com.google.javascript.rhino.Node#1019
+com.google.javascript.rhino.Node#1001

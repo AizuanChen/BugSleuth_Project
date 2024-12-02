@@ -1,0 +1,6 @@
+Statement,Suspiciousness
+org.jfree.chart.renderer.category.AbstractCategoryItemRenderer#1790,1.0
+org.jfree.chart.plot.CategoryPlot#2235,0.9998694687377627
+org.jfree.chart.renderer.category.AbstractCategoryItemRenderer#1801,0.9998694687377627
+org.jfree.chart.renderer.xy.AbstractXYItemRenderer#984,0.9997389374755254
+org.jfree.chart.renderer.category.AbstractCategoryItemRenderer#1417,0.9997389374755254

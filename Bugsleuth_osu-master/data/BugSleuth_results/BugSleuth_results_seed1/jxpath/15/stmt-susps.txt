@@ -1,0 +1,5 @@
+org.apache.commons.jxpath.ri.compiler.CoreOperationUnion#39
+org.apache.commons.jxpath.ri.compiler.CoreOperationUnion#45
+org.apache.commons.jxpath.ri.EvalContext#185
+org.apache.commons.jxpath.ri.compiler.CoreOperationUnion#37
+org.apache.commons.jxpath.ri.EvalContext#186

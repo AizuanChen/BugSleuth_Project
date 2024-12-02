@@ -1,0 +1,5 @@
+org.apache.commons.math.util.FastMath#3446
+org.apache.commons.math.util.FastMath#3482
+org.apache.commons.math.ode.events.EventState#95
+org.apache.commons.math.util.MathUtils#521
+org.apache.commons.math.util.MathUtils#520

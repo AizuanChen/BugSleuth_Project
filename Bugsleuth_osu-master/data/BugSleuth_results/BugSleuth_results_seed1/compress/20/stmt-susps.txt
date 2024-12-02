@@ -1,0 +1,5 @@
+org.apache.commons.compress.archivers.cpio.CpioArchiveEntry#766
+org.apache.commons.compress.archivers.cpio.CpioArchiveInputStream#373
+org.apache.commons.compress.archivers.cpio.CpioArchiveInputStream#347
+org.apache.commons.compress.archivers.cpio.CpioArchiveEntry#509
+org.apache.commons.compress.archivers.cpio.CpioArchiveInputStream#162

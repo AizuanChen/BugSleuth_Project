@@ -1,0 +1,5 @@
+com.google.gson.DefaultDateTypeAdapter#49
+com.google.gson.DefaultDateTypeAdapter#100
+com.google.gson.DefaultDateTypeAdapter#48
+com.google.gson.GsonBuilder#580
+com.google.gson.JsonParseException#43

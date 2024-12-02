@@ -1,0 +1,5 @@
+com.google.javascript.jscomp.CompilerOptions#1771
+com.google.javascript.jscomp.type.ChainableReverseAbstractInterpreter#613
+com.google.javascript.jscomp.type.ChainableReverseAbstractInterpreter#612
+com.google.javascript.rhino.jstype.BooleanType#118
+com.google.javascript.jscomp.CompilerOptions#1770

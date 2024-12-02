@@ -1,0 +1,5 @@
+com.google.javascript.rhino.Node#1369
+com.google.javascript.jscomp.AbstractCommandLineRunner#438
+com.google.javascript.jscomp.Normalize#729
+com.google.javascript.jscomp.AbstractCommandLineRunner#281
+com.google.javascript.jscomp.Normalize#679

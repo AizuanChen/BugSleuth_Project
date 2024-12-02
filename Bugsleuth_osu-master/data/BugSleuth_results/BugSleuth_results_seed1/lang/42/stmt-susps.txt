@@ -1,0 +1,5 @@
+org.apache.commons.lang.CharEncoding#95
+org.apache.commons.lang.StringEscapeUtils#320
+org.apache.commons.lang.Entities#861
+org.apache.commons.lang.Entities#862
+org.apache.commons.lang.StringEscapeUtils#324

@@ -1,0 +1,5 @@
+com.google.javascript.rhino.jstype.NoObjectType#151
+com.google.javascript.jscomp.CodingConventions#424
+com.google.javascript.rhino.jstype.NoObjectType#138
+com.google.javascript.jscomp.CodingConventions#432
+com.google.javascript.jscomp.CommandLineRunner#745

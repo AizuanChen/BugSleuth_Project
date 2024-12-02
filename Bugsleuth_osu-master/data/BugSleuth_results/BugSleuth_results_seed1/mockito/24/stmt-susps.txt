@@ -1,0 +1,5 @@
+org.mockito.internal.creation.jmock.SearchingClassLoader#70
+org.mockito.internal.creation.jmock.SearchingClassLoader#71
+org.mockito.internal.util.ObjectMethodsGuru#41
+org.mockito.internal.util.ObjectMethodsGuru#40
+org.mockito.internal.configuration.ClassPathLoader#154

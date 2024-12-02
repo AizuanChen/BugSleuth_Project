@@ -1,0 +1,5 @@
+com.google.javascript.rhino.Context#1072
+com.google.javascript.rhino.JSDocInfo#559
+com.google.javascript.rhino.Node#1329
+com.google.javascript.jscomp.JSModule#250
+com.google.javascript.rhino.Node#921

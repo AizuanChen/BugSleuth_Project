@@ -1,0 +1,5 @@
+com.google.javascript.jscomp.ant.CompileTask#204
+com.google.javascript.jscomp.CommandLineRunner#414
+com.google.javascript.jscomp.CommandLineRunner#415
+com.google.javascript.jscomp.CommandLineRunner#413
+com.google.javascript.jscomp.CommandLineRunner#420

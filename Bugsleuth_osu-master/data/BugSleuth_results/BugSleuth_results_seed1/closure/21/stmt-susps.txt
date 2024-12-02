@@ -1,0 +1,5 @@
+com.google.javascript.rhino.Token#187
+com.google.javascript.jscomp.FunctionInjector#447
+com.google.javascript.jscomp.CheckSideEffects#120
+com.google.javascript.jscomp.FunctionInjector#383
+com.google.javascript.jscomp.FunctionInjector#463

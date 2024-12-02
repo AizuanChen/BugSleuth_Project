@@ -1,0 +1,5 @@
+org.apache.commons.compress.archivers.zip.ZipArchiveEntry#670
+org.apache.commons.compress.archivers.zip.ZipArchiveEntry#667
+org.apache.commons.compress.archivers.zip.ZipFile#403
+org.apache.commons.compress.archivers.zip.ZipArchiveEntry#669
+org.apache.commons.compress.archivers.zip.ZipFile#837

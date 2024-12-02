@@ -1,0 +1,5 @@
+org.mockito.internal.configuration.injection.ConstructorInjection#85
+org.mockito.internal.stubbing.defaultanswers.ReturnsSmartNulls#45
+org.mockito.internal.configuration.injection.ConstructorInjection#84
+org.mockito.internal.stubbing.defaultanswers.ReturnsMoreEmptyValues#59
+org.mockito.internal.util.reflection.FieldInitializer#173

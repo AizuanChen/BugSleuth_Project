@@ -1,0 +1,5 @@
+com.google.javascript.jscomp.ScopedAliases#78
+com.google.javascript.jscomp.TypedScopeCreator#295
+com.google.javascript.jscomp.ScopedAliases#269
+com.google.javascript.jscomp.TypedScopeCreator#192
+com.google.javascript.jscomp.AstValidator#241

@@ -1,0 +1,5 @@
+com.google.javascript.jscomp.NodeUtil#1988
+com.google.javascript.rhino.Context#376
+com.google.javascript.jscomp.parsing.IRFactory#672
+com.google.javascript.jscomp.parsing.IRFactory#673
+com.google.javascript.jscomp.AliasExternals#703

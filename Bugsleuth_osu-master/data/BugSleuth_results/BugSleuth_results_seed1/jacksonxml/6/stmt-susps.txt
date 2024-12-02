@@ -1,0 +1,5 @@
+com.fasterxml.jackson.dataformat.xml.XmlFactory#112
+com.fasterxml.jackson.dataformat.xml.ser.ToXmlGenerator#1238
+com.fasterxml.jackson.dataformat.xml.ser.XmlBeanSerializerBase#219
+com.fasterxml.jackson.dataformat.xml.ser.XmlBeanSerializerBase#218
+com.fasterxml.jackson.dataformat.xml.ser.ToXmlGenerator#810

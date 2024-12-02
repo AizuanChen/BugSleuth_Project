@@ -1,0 +1,5 @@
+org.mockito.internal.matchers.Same#37
+org.mockito.internal.configuration.DefaultAnnotationEngine#71
+org.mockito.internal.invocation.InvocationsFinder#71
+org.mockito.internal.invocation.InvocationsFinder#74
+org.mockito.internal.invocation.InvocationsFinder#73

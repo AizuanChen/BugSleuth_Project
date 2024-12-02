@@ -1,0 +1,5 @@
+org.mockito.internal.creation.cglib.AcrossJVMSerializationFeature#345
+org.mockito.Matchers#442
+org.mockito.internal.creation.cglib.AcrossJVMSerializationFeature#343
+org.mockito.Matchers#738
+org.mockito.internal.creation.cglib.AcrossJVMSerializationFeature#227

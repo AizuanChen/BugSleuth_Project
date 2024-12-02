@@ -1,0 +1,5 @@
+com.google.javascript.jscomp.NodeTraversal#322
+com.google.javascript.jscomp.Compiler#169
+com.google.javascript.rhino.Node#193
+com.google.javascript.rhino.Node#2259
+com.google.javascript.rhino.Node#2260

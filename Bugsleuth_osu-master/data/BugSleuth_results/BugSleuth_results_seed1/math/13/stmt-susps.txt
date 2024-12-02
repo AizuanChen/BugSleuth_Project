@@ -1,0 +1,5 @@
+org.apache.commons.math3.optimization.fitting.PolynomialFitter#110
+org.apache.commons.math3.optimization.fitting.CurveFitter#69
+org.apache.commons.math3.optimization.fitting.CurveFitter#174
+org.apache.commons.math3.fitting.CurveFitter#69
+org.apache.commons.math3.analysis.polynomials.PolynomialFunction#71

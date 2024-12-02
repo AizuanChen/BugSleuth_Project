@@ -1,0 +1,5 @@
+org.apache.commons.codec.net.QuotedPrintableCodec#183
+org.apache.commons.codec.net.QuotedPrintableCodec#395
+org.apache.commons.codec.net.QuotedPrintableCodec#91
+org.apache.commons.codec.net.Utils#44
+org.apache.commons.codec.net.QuotedPrintableCodec#405

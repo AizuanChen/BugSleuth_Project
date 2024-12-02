@@ -1,0 +1,5 @@
+com.google.javascript.jscomp.NodeUtil#2148
+com.google.javascript.jscomp.NameAnalyzer#1547
+com.google.javascript.jscomp.NodeUtil#1199
+com.google.javascript.jscomp.graph.FixedPointGraphTraversal#46
+com.google.javascript.jscomp.parsing.IRFactory#1131

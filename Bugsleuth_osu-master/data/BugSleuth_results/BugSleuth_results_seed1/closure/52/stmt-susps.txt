@@ -1,0 +1,5 @@
+com.google.javascript.jscomp.CodeGenerator#676
+com.google.javascript.jscomp.CollapseProperties#705
+com.google.javascript.jscomp.CollapseProperties#706
+com.google.javascript.rhino.ScriptRuntime#155
+com.google.javascript.jscomp.parsing.IRFactory#401

@@ -1,0 +1,5 @@
+org.apache.commons.compress.compressors.deflate.DeflateParameters#50
+org.apache.commons.compress.compressors.CompressorException#38
+org.apache.commons.compress.compressors.deflate.DeflateParameters#38
+org.apache.commons.compress.compressors.deflate.DeflateParameters#30
+org.apache.commons.compress.compressors.CompressorException#37

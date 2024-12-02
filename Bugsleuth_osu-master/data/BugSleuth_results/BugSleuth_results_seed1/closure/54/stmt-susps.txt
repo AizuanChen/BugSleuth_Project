@@ -1,0 +1,5 @@
+com.google.javascript.jscomp.TypedScopeCreator#1419
+com.google.javascript.rhino.jstype.FunctionType#556
+com.google.javascript.jscomp.CommandLineRunner#574
+com.google.javascript.rhino.jstype.JSTypeRegistry#695
+com.google.javascript.jscomp.TypedScopeCreator#768

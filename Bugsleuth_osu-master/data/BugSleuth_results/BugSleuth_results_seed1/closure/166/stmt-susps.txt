@@ -1,0 +1,5 @@
+com.google.javascript.jscomp.DisambiguateProperties#968
+com.google.javascript.jscomp.TypedScopeCreator#1998
+com.google.javascript.jscomp.DisambiguateProperties#970
+com.google.javascript.rhino.jstype.PrototypeObjectType#574
+com.google.javascript.rhino.jstype.RecordType#132

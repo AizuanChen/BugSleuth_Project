@@ -1,0 +1,5 @@
+org.apache.commons.math.analysis.solvers.BaseAbstractUnivariateRealSolver#295
+org.apache.commons.math.analysis.solvers.BaseAbstractUnivariateRealSolver#296
+org.apache.commons.math.analysis.solvers.RegulaFalsiSolver#52
+org.apache.commons.math.exception.TooManyEvaluationsException#38
+org.apache.commons.math.exception.TooManyEvaluationsException#39

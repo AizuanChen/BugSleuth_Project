@@ -1,0 +1,5 @@
+org.apache.commons.codec.net.URLCodec#136
+org.apache.commons.codec.language.Metaphone#88
+org.apache.commons.codec.language.Metaphone#378
+org.apache.commons.codec.language.DoubleMetaphone#97
+org.apache.commons.codec.net.URLCodec#132

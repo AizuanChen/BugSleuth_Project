@@ -1,0 +1,5 @@
+com.google.javascript.jscomp.regex.RegExpTree#1045
+com.google.javascript.jscomp.regex.RegExpTree#1047
+com.google.javascript.jscomp.parsing.JsDocInfoParser#1839
+com.google.javascript.jscomp.regex.RegExpTree#380
+com.google.javascript.jscomp.parsing.JsDocInfoParser#2303

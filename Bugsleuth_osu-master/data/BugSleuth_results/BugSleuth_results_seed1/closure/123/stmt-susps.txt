@@ -1,0 +1,5 @@
+com.google.javascript.jscomp.NodeUtil#2191
+com.google.javascript.jscomp.CompilerOptions#884
+com.google.javascript.jscomp.NodeUtil#2205
+com.google.javascript.jscomp.parsing.IRFactory#1397
+com.google.javascript.jscomp.CodeGenerator#267

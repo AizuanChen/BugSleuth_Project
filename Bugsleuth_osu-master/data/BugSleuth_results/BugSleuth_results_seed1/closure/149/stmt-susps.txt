@@ -1,0 +1,5 @@
+com.google.javascript.jscomp.WarningLevel#41
+com.google.javascript.jscomp.WarningLevel#40
+com.google.javascript.jscomp.AbstractCommandLineRunner#504
+com.google.javascript.jscomp.AbstractCommandLineRunner#519
+com.google.javascript.jscomp.AbstractCommandLineRunner#246

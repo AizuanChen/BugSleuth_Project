@@ -1,0 +1,5 @@
+com.google.javascript.rhino.jstype.JSType#958
+com.google.javascript.jscomp.Compiler#103
+com.google.javascript.jscomp.type.SemanticReverseAbstractInterpreter#202
+com.google.javascript.jscomp.Compiler#227
+com.google.javascript.jscomp.Compiler#2584

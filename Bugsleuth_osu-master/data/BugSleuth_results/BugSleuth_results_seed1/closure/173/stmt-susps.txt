@@ -1,0 +1,5 @@
+com.google.javascript.jscomp.CodeConsumer#225
+com.google.javascript.jscomp.PeepholeMinimizeConditions#415
+com.google.javascript.jscomp.NodeUtil#1217
+com.google.javascript.jscomp.CodeGenerator#785
+com.google.javascript.jscomp.PeepholeMinimizeConditions#422

@@ -1,0 +1,5 @@
+com.google.javascript.jscomp.TypedScopeCreator#1157
+com.google.javascript.rhino.jstype.AllType#105
+com.google.javascript.jscomp.NameAnalyzer#1538
+com.google.javascript.jscomp.type.ChainableReverseAbstractInterpreter#250
+com.google.javascript.rhino.jstype.NoType#90

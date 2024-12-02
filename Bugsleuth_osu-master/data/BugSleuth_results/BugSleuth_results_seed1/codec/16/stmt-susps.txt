@@ -1,0 +1,5 @@
+org.apache.commons.codec.binary.Base32#309
+org.apache.commons.codec.binary.Base32#193
+org.apache.commons.codec.binary.Base32#284
+org.apache.commons.codec.binary.Base32#285
+org.apache.commons.codec.binary.Base32#283

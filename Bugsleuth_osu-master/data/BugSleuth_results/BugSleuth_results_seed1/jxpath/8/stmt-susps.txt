@@ -1,0 +1,5 @@
+org.apache.commons.jxpath.ri.compiler.CoreOperationRelationalExpression#101
+org.apache.commons.jxpath.ri.compiler.CoreFunction#714
+org.apache.commons.jxpath.ri.compiler.CoreFunction#713
+org.apache.commons.jxpath.ri.compiler.CoreFunction#711
+org.apache.commons.jxpath.ri.compiler.CoreOperationRelationalExpression#105

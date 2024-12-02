@@ -1,0 +1,5 @@
+com.google.javascript.rhino.jstype.PrototypeObjectType#375
+com.google.javascript.jscomp.TypeValidator#206
+com.google.javascript.jscomp.TypedScopeCreator#1295
+com.google.javascript.jscomp.TypeValidator#205
+com.google.javascript.jscomp.BasicErrorManager#161

@@ -1,0 +1,5 @@
+com.google.javascript.jscomp.CommandLineRunner#618
+com.google.javascript.jscomp.TypeInference#1239
+com.google.javascript.jscomp.SourceFile#305
+com.google.javascript.rhino.Node#232
+com.google.javascript.rhino.Node#245

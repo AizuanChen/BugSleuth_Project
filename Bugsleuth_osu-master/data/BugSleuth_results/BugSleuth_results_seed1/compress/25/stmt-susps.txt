@@ -1,0 +1,5 @@
+org.apache.commons.compress.archivers.zip.ZipArchiveInputStream#431
+org.apache.commons.compress.compressors.bzip2.BZip2CompressorOutputStream#588
+org.apache.commons.compress.archivers.zip.ZipArchiveInputStream#877
+org.apache.commons.compress.compressors.bzip2.BZip2CompressorOutputStream#917
+org.apache.commons.compress.archivers.zip.X7875_NewUnix#168

@@ -1,0 +1,5 @@
+org.apache.commons.codec.language.bm.BeiderMorseEncoder#86
+org.apache.commons.codec.language.bm.BeiderMorseEncoder#85
+org.apache.commons.codec.language.bm.BeiderMorseEncoder#84
+org.apache.commons.codec.language.bm.BeiderMorseEncoder#81
+org.apache.commons.codec.language.bm.Rule#602

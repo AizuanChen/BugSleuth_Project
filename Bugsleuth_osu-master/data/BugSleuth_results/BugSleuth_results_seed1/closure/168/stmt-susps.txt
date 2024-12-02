@@ -1,0 +1,5 @@
+com.google.javascript.jscomp.CodingConventions#225
+com.google.javascript.jscomp.TypedScopeCreator#2015
+com.google.javascript.jscomp.TypeCheck#1243
+com.google.javascript.jscomp.TypedScopeCreator#2012
+com.google.javascript.jscomp.TypedScopeCreator#2014

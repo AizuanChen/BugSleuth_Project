@@ -1,0 +1,5 @@
+com.google.javascript.jscomp.JsMessageVisitor#91
+com.google.javascript.jscomp.JsMessageVisitor#229
+com.google.javascript.rhino.jstype.JSTypeRegistry#190
+com.google.javascript.jscomp.parsing.ParserRunner#108
+com.google.javascript.jscomp.parsing.TypeSafeDispatcher#198

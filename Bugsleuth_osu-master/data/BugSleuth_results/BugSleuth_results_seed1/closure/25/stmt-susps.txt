@@ -1,0 +1,5 @@
+com.google.javascript.jscomp.TypeInference#513
+com.google.javascript.jscomp.TypeValidator#608
+com.google.javascript.jscomp.parsing.JsDocInfoParser#2154
+com.google.javascript.jscomp.parsing.JsDocInfoParser#2162
+com.google.javascript.jscomp.parsing.JsDocInfoParser#2156

@@ -1,0 +1,5 @@
+org.mockito.internal.runners.RunnerFactory#27
+org.mockito.internal.stubbing.defaultanswers.ReturnsSmartNulls#60
+org.mockito.internal.stubbing.defaultanswers.ReturnsSmartNulls#44
+org.mockito.internal.runners.RunnerFactory#26
+org.mockito.internal.creation.jmock.SearchingClassLoader#52

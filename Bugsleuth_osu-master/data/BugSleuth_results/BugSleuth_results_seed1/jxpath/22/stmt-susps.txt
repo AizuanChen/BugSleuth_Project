@@ -1,0 +1,5 @@
+org.apache.commons.jxpath.ri.model.dom.DOMNodePointer#581
+org.apache.commons.jxpath.ri.model.dom.DOMNodePointer#486
+org.apache.commons.jxpath.ri.model.dom.DOMNodePointer#582
+org.apache.commons.jxpath.ri.model.dom.DOMNodePointer#585
+org.apache.commons.jxpath.ri.model.dom.DOMNodePointer#512

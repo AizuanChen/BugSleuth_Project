@@ -1,0 +1,5 @@
+com.google.javascript.jscomp.TypeValidator#79
+com.google.javascript.rhino.jstype.JSTypeRegistry#1453
+com.google.javascript.rhino.TokenStream#128
+com.google.javascript.rhino.jstype.JSTypeRegistry#1455
+com.google.javascript.jscomp.NameAnalyzer#1616

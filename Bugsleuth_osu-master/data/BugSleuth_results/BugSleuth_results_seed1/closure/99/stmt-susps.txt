@@ -1,0 +1,5 @@
+com.google.javascript.jscomp.AliasExternals#94
+com.google.javascript.jscomp.TypeCheck#931
+com.google.javascript.rhino.JSDocInfoBuilder#677
+com.google.javascript.rhino.JSDocInfoBuilder#680
+com.google.javascript.rhino.JSDocInfoBuilder#679

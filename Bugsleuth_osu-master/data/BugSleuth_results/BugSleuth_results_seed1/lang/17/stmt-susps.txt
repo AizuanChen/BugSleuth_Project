@@ -1,0 +1,5 @@
+org.apache.commons.lang3.StringEscapeUtils#506
+org.apache.commons.lang3.StringEscapeUtils#505
+org.apache.commons.lang3.text.translate.AggregateTranslator#53
+org.apache.commons.lang3.StringEscapeUtils#526
+org.apache.commons.lang3.StringEscapeUtils#154

@@ -1,0 +1,5 @@
+com.google.javascript.rhino.jstype.UnknownType#172
+com.google.javascript.rhino.jstype.JSType#751
+com.google.javascript.rhino.jstype.FunctionType#664
+com.google.javascript.rhino.jstype.FunctionType#663
+com.google.javascript.jscomp.CheckAccessControls#289

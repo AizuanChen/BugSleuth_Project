@@ -1,0 +1,5 @@
+com.google.javascript.jscomp.parsing.TypeSafeDispatcher#218
+com.google.javascript.jscomp.AbstractCommandLineRunner#1420
+com.google.javascript.jscomp.AbstractCommandLineRunner#1419
+com.google.javascript.jscomp.parsing.TypeSafeDispatcher#182
+com.google.javascript.jscomp.AbstractCommandLineRunner#1407

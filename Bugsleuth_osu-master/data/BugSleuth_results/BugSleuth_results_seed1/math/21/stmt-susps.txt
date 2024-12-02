@@ -1,0 +1,5 @@
+org.apache.commons.math3.linear.RectangularCholeskyDecomposition#226
+org.apache.commons.math3.util.FastMath#3520
+org.apache.commons.math3.linear.RectangularCholeskyDecomposition#299
+org.apache.commons.math3.linear.Array2DRowRealMatrix#456
+org.apache.commons.math3.linear.Array2DRowRealMatrix#459

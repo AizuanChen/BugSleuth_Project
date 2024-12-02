@@ -1,0 +1,5 @@
+org.apache.commons.jxpath.ri.compiler.NodeNameTest#42
+org.apache.commons.jxpath.ri.Compiler#271
+org.apache.commons.jxpath.ri.compiler.NodeNameTest#33
+org.apache.commons.jxpath.ri.compiler.CoreFunction#457
+org.apache.commons.jxpath.ri.Compiler#223

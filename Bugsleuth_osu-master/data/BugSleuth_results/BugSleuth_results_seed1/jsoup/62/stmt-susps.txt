@@ -1,0 +1,5 @@
+org.jsoup.helper.HttpConnection#695
+org.jsoup.helper.HttpConnection#693
+org.jsoup.nodes.Entities#124
+org.jsoup.helper.HttpConnection#483
+org.jsoup.nodes.Entities#125

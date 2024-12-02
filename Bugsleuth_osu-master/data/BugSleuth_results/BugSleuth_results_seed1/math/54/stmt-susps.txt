@@ -1,0 +1,5 @@
+org.apache.commons.math.dfp.Dfp#2290
+org.apache.commons.math.dfp.Dfp#1041
+org.apache.commons.math.dfp.DfpMath#505
+org.apache.commons.math.dfp.DfpMath#542
+org.apache.commons.math.dfp.Dfp#1808

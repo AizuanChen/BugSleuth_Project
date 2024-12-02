@@ -1,0 +1,5 @@
+org.mockito.internal.configuration.SpyAnnotationEngine#60
+org.mockito.internal.configuration.injection.PropertyAndSetterInjection#101
+org.mockito.internal.configuration.injection.PropertyAndSetterInjection#73
+org.mockito.internal.configuration.injection.SpyOnInjectedFieldsHandler#41
+org.mockito.internal.configuration.injection.PropertyAndSetterInjection#71

@@ -1,0 +1,5 @@
+org.apache.commons.compress.archivers.zip.ZipArchiveInputStream#734
+org.apache.commons.compress.archivers.tar.TarUtils#141
+org.apache.commons.compress.utils.ArchiveUtils#273
+org.apache.commons.compress.utils.ArchiveUtils#280
+org.apache.commons.compress.utils.ArchiveUtils#279

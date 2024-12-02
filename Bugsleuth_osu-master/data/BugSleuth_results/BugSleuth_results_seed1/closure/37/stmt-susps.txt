@@ -1,0 +1,5 @@
+com.google.javascript.jscomp.Compiler#176
+com.google.javascript.jscomp.parsing.TypeSafeDispatcher#280
+com.google.javascript.jscomp.Compiler#1833
+com.google.javascript.jscomp.Compiler#615
+com.google.javascript.jscomp.Compiler#616

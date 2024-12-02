@@ -1,0 +1,5 @@
+org.jfree.chart.renderer.category.AbstractCategoryItemRenderer#1793
+org.jfree.chart.plot.CategoryPlot#1613
+org.jfree.chart.plot.CategoryPlot#1614
+org.jfree.chart.renderer.category.AbstractCategoryItemRenderer#1801
+org.jfree.chart.renderer.category.AbstractCategoryItemRenderer#1790

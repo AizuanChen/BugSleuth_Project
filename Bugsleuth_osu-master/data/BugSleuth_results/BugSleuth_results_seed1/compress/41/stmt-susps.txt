@@ -1,0 +1,5 @@
+org.apache.commons.compress.archivers.zip.UnrecognizedExtraField#133
+org.apache.commons.compress.archivers.dump.InvalidFormatException#41
+org.apache.commons.compress.archivers.zip.ParallelScatterZipCreator#148
+org.apache.commons.compress.archivers.dump.InvalidFormatException#40
+org.apache.commons.compress.archivers.zip.UnrecognizedExtraField#66

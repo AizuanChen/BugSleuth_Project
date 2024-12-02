@@ -1,0 +1,5 @@
+com.google.javascript.jscomp.SideEffectsAnalysis#156
+com.google.javascript.jscomp.NodeUtil#2465
+com.google.javascript.jscomp.PureFunctionIdentifier#820
+com.google.javascript.jscomp.SideEffectsAnalysis#602
+com.google.javascript.jscomp.SideEffectsAnalysis#763

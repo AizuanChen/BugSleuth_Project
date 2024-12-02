@@ -1,0 +1,5 @@
+com.google.javascript.jscomp.AbstractCommandLineRunner#393
+com.google.javascript.jscomp.AbstractCommandLineRunner#633
+com.google.javascript.jscomp.AbstractCommandLineRunner#439
+com.google.javascript.jscomp.ProcessDefines#149
+com.google.javascript.jscomp.ProcessDefines#407

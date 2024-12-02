@@ -1,0 +1,5 @@
+com.fasterxml.jackson.core.JsonLocation#89
+com.fasterxml.jackson.core.json.ByteSourceJsonBootstrapper#232
+com.fasterxml.jackson.core.json.UTF8StreamJsonParser#820
+com.fasterxml.jackson.core.json.ByteSourceJsonBootstrapper#226
+com.fasterxml.jackson.core.json.ByteSourceJsonBootstrapper#501

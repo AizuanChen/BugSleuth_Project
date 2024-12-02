@@ -1,0 +1,5 @@
+com.google.javascript.rhino.Token#409
+com.google.javascript.jscomp.PeepholeFoldConstants#67
+com.google.javascript.rhino.DToA#911
+com.google.javascript.rhino.Node#227
+com.google.javascript.rhino.Token#402

@@ -1,0 +1,5 @@
+org.apache.commons.math3.optimization.linear.SimplexSolver#170
+org.apache.commons.math3.optimization.linear.SimplexSolver#169
+org.apache.commons.math3.optimization.linear.AbstractLinearOptimizer#128
+org.apache.commons.math3.exception.MathIllegalStateException#70
+org.apache.commons.math3.exception.MathIllegalStateException#74

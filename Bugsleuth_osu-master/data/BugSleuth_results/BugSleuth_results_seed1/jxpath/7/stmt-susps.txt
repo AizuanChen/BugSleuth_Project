@@ -1,0 +1,5 @@
+org.apache.commons.jxpath.ri.InfoSetUtil#123
+org.apache.commons.jxpath.ri.InfoSetUtil#111
+org.apache.commons.jxpath.ri.JXPathContextReferenceImpl#408
+org.apache.commons.jxpath.ri.JXPathContextReferenceImpl#342
+org.apache.commons.jxpath.ri.JXPathContextReferenceImpl#495

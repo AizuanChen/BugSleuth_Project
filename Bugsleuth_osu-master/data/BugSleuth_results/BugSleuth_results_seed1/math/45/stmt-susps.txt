@@ -1,0 +1,5 @@
+org.apache.commons.math.linear.SparseFieldMatrix#74
+org.apache.commons.math.linear.OpenMapRealMatrix#131
+org.apache.commons.math.linear.SparseFieldMatrix#115
+org.apache.commons.math.linear.OpenMapRealMatrix#52
+org.apache.commons.math.linear.OpenMapRealMatrix#50

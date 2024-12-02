@@ -1,0 +1,5 @@
+com.google.javascript.jscomp.AliasStrings#429
+com.google.javascript.rhino.jstype.UnionType#287
+com.google.javascript.jscomp.CodeGenerator#106
+com.google.javascript.jscomp.NameAnalyzer#1188
+com.google.javascript.rhino.jstype.UnionType#281

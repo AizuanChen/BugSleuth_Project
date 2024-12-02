@@ -1,0 +1,5 @@
+org.apache.commons.math.distribution.AbstractContinuousDistribution#100
+org.apache.commons.math.distribution.AbstractContinuousDistribution#104
+org.apache.commons.math.distribution.NormalDistributionImpl#37
+org.apache.commons.math.distribution.PoissonDistributionImpl#185
+org.apache.commons.math.distribution.AbstractContinuousDistribution#88

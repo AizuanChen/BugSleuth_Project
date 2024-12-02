@@ -1,0 +1,5 @@
+org.apache.commons.jxpath.ri.model.dom.DOMNodePointer#62
+org.apache.commons.jxpath.ri.JXPathContextReferenceImpl#478
+org.apache.commons.jxpath.ri.model.dom.DOMNodePointer#63
+org.apache.commons.jxpath.ri.JXPathContextReferenceImpl#479
+org.apache.commons.jxpath.ri.JXPathContextReferenceImpl#83

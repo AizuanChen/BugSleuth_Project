@@ -1,0 +1,5 @@
+com.google.javascript.jscomp.CodeGenerator#289
+com.google.javascript.rhino.Context#968
+com.google.javascript.jscomp.FunctionTypeBuilder#515
+com.google.javascript.rhino.Context#966
+com.google.javascript.jscomp.CodeGenerator#278

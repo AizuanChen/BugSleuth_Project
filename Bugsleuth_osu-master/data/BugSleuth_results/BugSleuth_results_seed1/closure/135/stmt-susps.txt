@@ -1,0 +1,5 @@
+com.google.javascript.rhino.jstype.JSTypeRegistry#888
+com.google.javascript.jscomp.TypedScopeCreator#767
+com.google.javascript.jscomp.TypedScopeCreator#762
+com.google.javascript.jscomp.DevirtualizePrototypeMethods#340
+com.google.javascript.rhino.jstype.JSTypeRegistry#914

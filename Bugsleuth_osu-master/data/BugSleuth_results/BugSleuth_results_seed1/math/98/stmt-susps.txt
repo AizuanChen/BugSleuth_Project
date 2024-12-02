@@ -1,0 +1,5 @@
+org.apache.commons.math.linear.RealMatrixImpl#784
+org.apache.commons.math.linear.RealMatrixImpl#782
+org.apache.commons.math.linear.BigMatrixImpl#892
+org.apache.commons.math.linear.RealMatrixImpl#780
+org.apache.commons.math.linear.RealMatrixImpl#693

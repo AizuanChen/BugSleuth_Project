@@ -1,0 +1,5 @@
+org.apache.commons.math.analysis.LaguerreSolver#86
+org.apache.commons.math.distribution.FDistributionImpl#148
+org.apache.commons.math.analysis.UnivariateRealSolverUtils#179
+org.apache.commons.math.analysis.MullerSolver#66
+org.apache.commons.math.distribution.FDistributionImpl#147

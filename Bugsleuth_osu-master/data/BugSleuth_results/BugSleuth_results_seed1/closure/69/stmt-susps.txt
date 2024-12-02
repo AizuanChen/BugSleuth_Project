@@ -1,0 +1,5 @@
+com.google.javascript.jscomp.CompilerOptions#630
+com.google.javascript.jscomp.AbstractCommandLineRunner#986
+com.google.javascript.jscomp.TypeValidator#233
+com.google.javascript.jscomp.TypeValidator#313
+com.google.javascript.rhino.jstype.NumberType#69

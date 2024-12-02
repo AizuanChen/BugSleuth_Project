@@ -1,0 +1,5 @@
+org.mockito.internal.util.reflection.GenericMetadataSupport#377
+org.mockito.internal.creation.SerializableMockitoMethodProxy#22
+org.mockito.internal.util.reflection.GenericMetadataSupport#378
+org.mockito.internal.util.reflection.GenericMetadataSupport#380
+org.mockito.internal.creation.SerializableMockitoMethodProxy#23

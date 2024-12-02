@@ -1,0 +1,5 @@
+com.google.javascript.jscomp.CompilerOptions#901
+com.google.javascript.jscomp.DisambiguateProperties#497
+com.google.javascript.jscomp.DisambiguateProperties#493
+com.google.javascript.jscomp.DisambiguateProperties#498
+com.google.javascript.jscomp.CompilerOptions#1905

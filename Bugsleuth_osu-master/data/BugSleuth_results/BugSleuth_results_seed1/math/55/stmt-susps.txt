@@ -1,0 +1,5 @@
+org.apache.commons.math.geometry.Vector3D#473
+org.apache.commons.math.geometry.Vector3D#346
+org.apache.commons.math.geometry.Rotation#373
+org.apache.commons.math.geometry.Vector3D#189
+org.apache.commons.math.geometry.Vector3D#197

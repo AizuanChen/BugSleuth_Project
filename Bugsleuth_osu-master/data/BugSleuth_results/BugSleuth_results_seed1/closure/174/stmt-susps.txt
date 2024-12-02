@@ -1,0 +1,5 @@
+com.google.javascript.jscomp.ScopedAliases#395
+com.google.javascript.jscomp.VarCheck#336
+com.google.javascript.jscomp.ScopedAliases#359
+com.google.javascript.jscomp.ScopedAliases#365
+com.google.javascript.jscomp.AbstractCommandLineRunner#717

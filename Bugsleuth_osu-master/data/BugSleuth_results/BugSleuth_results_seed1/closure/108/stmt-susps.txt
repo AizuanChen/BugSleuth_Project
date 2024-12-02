@@ -1,0 +1,5 @@
+com.google.javascript.jscomp.ScopedAliases#523
+com.google.javascript.jscomp.parsing.IRFactory#1409
+com.google.javascript.jscomp.ScopedAliases#430
+com.google.javascript.jscomp.ScopedAliases#543
+com.google.javascript.jscomp.ScopedAliases#412

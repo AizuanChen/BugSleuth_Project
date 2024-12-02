@@ -1,0 +1,5 @@
+com.google.javascript.jscomp.CodePrinter#614
+com.google.javascript.jscomp.Compiler#172
+com.google.javascript.jscomp.Compiler#1265
+com.google.javascript.jscomp.Compiler#171
+com.google.javascript.jscomp.CodeGenerator#1015

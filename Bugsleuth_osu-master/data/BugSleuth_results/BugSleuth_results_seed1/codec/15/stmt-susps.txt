@@ -1,0 +1,5 @@
+org.apache.commons.codec.language.DaitchMokotoffSoundex#229
+org.apache.commons.codec.language.Soundex#190
+org.apache.commons.codec.language.DaitchMokotoffSoundex#231
+org.apache.commons.codec.language.Soundex#191
+org.apache.commons.codec.language.Soundex#193

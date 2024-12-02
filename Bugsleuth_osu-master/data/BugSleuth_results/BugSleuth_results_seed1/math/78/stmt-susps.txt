@@ -1,0 +1,5 @@
+org.apache.commons.math.analysis.solvers.BrentSolver#170
+org.apache.commons.math.ode.events.EventState#180
+org.apache.commons.math.analysis.solvers.BrentSolver#282
+org.apache.commons.math.ode.events.EventState#288
+org.apache.commons.math.ode.events.EventState#283

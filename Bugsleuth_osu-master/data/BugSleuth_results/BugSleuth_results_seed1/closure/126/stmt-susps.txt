@@ -1,0 +1,5 @@
+com.google.javascript.jscomp.PeepholeSubstituteAlternateSyntax#454
+com.google.javascript.jscomp.PeepholeSubstituteAlternateSyntax#81
+com.google.javascript.jscomp.PeepholeRemoveDeadCode#83
+com.google.javascript.jscomp.PeepholeSubstituteAlternateSyntax#80
+com.google.javascript.rhino.Node#1012

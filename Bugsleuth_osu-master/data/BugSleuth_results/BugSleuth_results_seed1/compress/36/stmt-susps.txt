@@ -1,0 +1,5 @@
+org.apache.commons.compress.archivers.sevenz.SevenZFile#902
+org.apache.commons.compress.archivers.sevenz.SevenZFile#903
+org.apache.commons.compress.archivers.sevenz.SevenZOutputFile#470
+org.apache.commons.compress.utils.ChecksumVerifyingInputStream#102
+org.apache.commons.compress.utils.ChecksumVerifyingInputStream#100

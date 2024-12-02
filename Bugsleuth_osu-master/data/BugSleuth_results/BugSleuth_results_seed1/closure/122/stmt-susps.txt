@@ -1,0 +1,5 @@
+com.google.javascript.jscomp.parsing.IRFactory#201
+com.google.javascript.jscomp.parsing.IRFactory#252
+com.google.javascript.jscomp.parsing.JsDocInfoParser#133
+com.google.javascript.jscomp.parsing.JsDocInfoParser#142
+com.google.javascript.jscomp.parsing.JsDocInfoParser#143

@@ -1,0 +1,5 @@
+com.google.javascript.jscomp.ExpressionDecomposer#500
+com.google.javascript.jscomp.JsMessageVisitor#370
+com.google.javascript.jscomp.ExpressionDecomposer#340
+com.google.javascript.rhino.jstype.RecordType#116
+com.google.javascript.rhino.jstype.RecordType#261

@@ -1,0 +1,5 @@
+org.jsoup.nodes.Entities#37
+org.jsoup.safety.Cleaner#43
+org.jsoup.nodes.Entities#39
+org.jsoup.nodes.Entities#38
+org.jsoup.nodes.Document#197

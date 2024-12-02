@@ -1,0 +1,5 @@
+org.apache.commons.jxpath.ri.compiler.CoreFunction#346
+org.apache.commons.jxpath.ri.compiler.CoreFunction#338
+org.apache.commons.jxpath.ri.compiler.CoreFunction#352
+org.apache.commons.jxpath.ri.parser.XPathParserTokenManager#588
+org.apache.commons.jxpath.ri.parser.XPathParser#43

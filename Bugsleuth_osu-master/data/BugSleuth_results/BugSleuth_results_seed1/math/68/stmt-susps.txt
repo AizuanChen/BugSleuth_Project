@@ -1,0 +1,5 @@
+org.apache.commons.math.optimization.general.AbstractLeastSquaresOptimizer#157
+org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer#430
+org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer#608
+org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer#593
+org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer#325

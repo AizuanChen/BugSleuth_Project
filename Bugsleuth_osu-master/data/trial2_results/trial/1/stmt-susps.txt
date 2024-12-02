@@ -1,0 +1,6 @@
+Statement,Suspiciousness
+F,1.0
+G,0.9
+H,0.8
+I,0.7
+J,0.6

@@ -1,0 +1,5 @@
+org.jsoup.Jsoup#73
+org.jsoup.parser.Parser#205
+org.jsoup.safety.Whitelist#165
+org.jsoup.parser.Parser#19
+org.jsoup.select.Evaluator#540

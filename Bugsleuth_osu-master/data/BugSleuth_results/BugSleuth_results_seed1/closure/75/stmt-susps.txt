@@ -1,0 +1,5 @@
+com.google.javascript.jscomp.AliasStrings#451
+com.google.javascript.jscomp.AliasStrings#407
+com.google.javascript.jscomp.ant.CompileTask#145
+com.google.javascript.rhino.Node#2247
+com.google.javascript.rhino.Node#2250

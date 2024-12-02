@@ -1,0 +1,5 @@
+org.apache.commons.compress.archivers.sevenz.SevenZFile#104
+org.apache.commons.compress.archivers.sevenz.SevenZOutputFile#386
+org.apache.commons.compress.archivers.sevenz.SevenZOutputFile#630
+org.apache.commons.compress.archivers.sevenz.SevenZOutputFile#421
+org.apache.commons.compress.archivers.sevenz.SevenZOutputFile#643

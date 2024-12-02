@@ -1,0 +1,5 @@
+com.google.javascript.jscomp.FunctionInjector#463
+com.google.javascript.jscomp.CheckSideEffects#115
+com.google.javascript.jscomp.CheckSideEffects#103
+com.google.javascript.jscomp.FunctionInjector#582
+com.google.javascript.jscomp.CheckSideEffects#102

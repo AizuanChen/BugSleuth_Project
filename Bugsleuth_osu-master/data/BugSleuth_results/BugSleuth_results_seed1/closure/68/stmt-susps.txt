@@ -1,0 +1,5 @@
+com.google.javascript.jscomp.parsing.JsDocTokenStream#352
+com.google.javascript.jscomp.parsing.JsDocInfoParser#401
+com.google.javascript.jscomp.parsing.JsDocInfoParser#1761
+com.google.javascript.jscomp.parsing.JsDocInfoParser#886
+com.google.javascript.jscomp.parsing.JsDocInfoParser#1868

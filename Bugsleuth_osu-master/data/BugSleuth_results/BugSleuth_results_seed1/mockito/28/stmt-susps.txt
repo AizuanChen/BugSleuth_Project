@@ -1,0 +1,5 @@
+org.mockito.internal.creation.jmock.ClassImposterizer#86
+org.mockito.internal.stubbing.defaultanswers.ReturnsEmptyValues#66
+org.mockito.internal.matchers.MatchersPrinter#31
+org.mockito.internal.stubbing.defaultanswers.ReturnsEmptyValues#65
+org.mockito.internal.stubbing.defaultanswers.ReturnsEmptyValues#70

@@ -1,0 +1,5 @@
+org.apache.commons.math3.exception.ConvergenceException#48
+org.apache.commons.math3.distribution.BinomialDistribution#83
+org.apache.commons.math3.distribution.BinomialDistribution#81
+org.apache.commons.math3.exception.ConvergenceException#49
+org.apache.commons.math3.random.RandomDataImpl#600

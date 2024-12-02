@@ -1,0 +1,5 @@
+org.jsoup.Jsoup#73
+org.jsoup.helper.HttpConnection#770
+org.jsoup.helper.Validate#103
+org.jsoup.helper.Validate#101
+org.jsoup.parser.Parser#136

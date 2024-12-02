@@ -1,0 +1,5 @@
+org.mockito.internal.stubbing.defaultanswers.ReturnsEmptyValues#111
+org.mockito.internal.util.collections.Iterables#15
+org.mockito.internal.stubbing.defaultanswers.ReturnsEmptyValues#117
+org.mockito.internal.stubbing.defaultanswers.ReturnsEmptyValues#113
+org.mockito.internal.util.collections.HashCodeAndEqualsSafeSet#37

@@ -1,0 +1,5 @@
+com.google.javascript.jscomp.Position#45
+com.google.javascript.rhino.DToA#1189
+com.google.javascript.rhino.DToA#1186
+com.google.javascript.rhino.DToA#1178
+com.google.javascript.jscomp.LoggerErrorManager#64

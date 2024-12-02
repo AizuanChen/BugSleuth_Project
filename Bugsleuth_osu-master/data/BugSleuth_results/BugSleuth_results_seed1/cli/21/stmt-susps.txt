@@ -1,0 +1,5 @@
+org.apache.commons.cli2.builder.PatternBuilder#103
+org.apache.commons.cli2.validation.NumberValidator#113
+org.apache.commons.cli2.validation.NumberValidator#163
+org.apache.commons.cli2.builder.PatternBuilder#84
+org.apache.commons.cli2.builder.PatternBuilder#125

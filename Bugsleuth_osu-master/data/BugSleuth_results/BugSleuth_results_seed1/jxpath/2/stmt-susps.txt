@@ -1,0 +1,5 @@
+org.apache.commons.jxpath.ri.JXPathContextReferenceImpl#323
+org.apache.commons.jxpath.ri.JXPathContextReferenceImpl#408
+org.apache.commons.jxpath.ri.model.NodePointer#68
+org.apache.commons.jxpath.ri.model.NodePointer#69
+org.apache.commons.jxpath.ri.model.NodePointer#66

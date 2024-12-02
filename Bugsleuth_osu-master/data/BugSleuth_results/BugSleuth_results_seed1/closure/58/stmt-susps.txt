@@ -1,0 +1,5 @@
+com.google.javascript.jscomp.parsing.IRFactory#421
+com.google.javascript.rhino.Context#1081
+com.google.javascript.jscomp.parsing.IRFactory#423
+com.google.javascript.rhino.Context#1083
+com.google.javascript.jscomp.parsing.IRFactory#422

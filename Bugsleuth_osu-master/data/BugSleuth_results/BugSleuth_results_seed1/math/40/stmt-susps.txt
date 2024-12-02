@@ -1,0 +1,5 @@
+org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#189
+org.apache.commons.math.dfp.BracketingNthOrderBrentSolverDFP#182
+org.apache.commons.math.exception.MathIllegalStateException#47
+org.apache.commons.math.exception.MathIllegalStateException#46
+org.apache.commons.math.analysis.solvers.BracketingNthOrderBrentSolver#118

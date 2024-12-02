@@ -1,0 +1,5 @@
+org.apache.commons.math.estimation.LevenbergMarquardtEstimator#372
+org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer#402
+org.apache.commons.math.optimization.general.LevenbergMarquardtOptimizer#424
+org.apache.commons.math.estimation.LevenbergMarquardtEstimator#271
+org.apache.commons.math.estimation.LevenbergMarquardtEstimator#430

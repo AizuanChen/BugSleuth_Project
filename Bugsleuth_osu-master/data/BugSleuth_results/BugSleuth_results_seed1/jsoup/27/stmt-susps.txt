@@ -1,0 +1,5 @@
+org.jsoup.helper.DataUtil#131
+org.jsoup.helper.DataUtil#91
+org.jsoup.helper.DataUtil#133
+org.jsoup.helper.HttpConnection#482
+org.jsoup.helper.DataUtil#77

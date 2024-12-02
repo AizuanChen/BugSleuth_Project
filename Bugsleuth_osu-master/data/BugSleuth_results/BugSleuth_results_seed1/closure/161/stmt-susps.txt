@@ -1,0 +1,5 @@
+com.google.javascript.jscomp.PeepholeFoldConstants#1303
+com.google.javascript.jscomp.PeepholeFoldConstants#1302
+com.google.javascript.jscomp.PeepholeSubstituteAlternateSyntax#142
+com.google.javascript.jscomp.PeepholeFoldConstants#37
+com.google.javascript.jscomp.PeepholeFoldConstants#1307

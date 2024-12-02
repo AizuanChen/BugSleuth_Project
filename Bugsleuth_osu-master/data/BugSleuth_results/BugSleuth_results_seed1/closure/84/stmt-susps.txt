@@ -1,0 +1,5 @@
+com.google.javascript.jscomp.TypeValidator#76
+com.google.javascript.jscomp.MarkNoSideEffectCalls#41
+com.google.javascript.jscomp.TypeValidator#77
+com.google.javascript.jscomp.parsing.IRFactory#858
+com.google.javascript.jscomp.parsing.IRFactory#308

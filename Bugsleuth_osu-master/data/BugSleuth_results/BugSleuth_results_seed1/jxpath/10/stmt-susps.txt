@@ -1,0 +1,5 @@
+org.apache.commons.jxpath.ri.EvalContext#303
+org.apache.commons.jxpath.ri.InfoSetUtil#123
+org.apache.commons.jxpath.ri.compiler.CoreOperationCompare#130
+org.apache.commons.jxpath.ri.JXPathContextReferenceImpl#323
+org.apache.commons.jxpath.ri.model.beans.NullPointer#133

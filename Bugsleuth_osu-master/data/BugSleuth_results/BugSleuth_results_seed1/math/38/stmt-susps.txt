@@ -1,0 +1,5 @@
+org.apache.commons.math.optimization.direct.BOBYQAOptimizer#2479
+org.apache.commons.math.optimization.direct.BOBYQAOptimizer#2478
+org.apache.commons.math.optimization.direct.BOBYQAOptimizer#2455
+org.apache.commons.math.optimization.direct.BOBYQAOptimizer#2457
+org.apache.commons.math.optimization.direct.BOBYQAOptimizer#2454

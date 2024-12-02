@@ -1,0 +1,5 @@
+com.google.javascript.rhino.jstype.FunctionType#543
+com.google.javascript.rhino.jstype.FunctionType#541
+com.google.javascript.rhino.jstype.FunctionType#545
+com.google.javascript.jscomp.JsMessageVisitor#802
+com.google.javascript.jscomp.JsMessageVisitor#640

@@ -1,0 +1,5 @@
+org.apache.commons.math.optimization.univariate.BrentOptimizer#66
+org.apache.commons.math.ConvergingAlgorithmImpl#82
+org.apache.commons.math.optimization.general.PowellOptimizer#180
+org.apache.commons.math.optimization.univariate.BrentOptimizer#65
+org.apache.commons.math.random.JDKRandomGenerator#28

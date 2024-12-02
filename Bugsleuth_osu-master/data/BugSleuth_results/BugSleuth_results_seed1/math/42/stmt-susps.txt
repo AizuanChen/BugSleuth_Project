@@ -1,0 +1,5 @@
+org.apache.commons.math.optimization.RealPointValuePair#68
+org.apache.commons.math.optimization.linear.SimplexTableau#134
+org.apache.commons.math.optimization.linear.SimplexTableau#347
+org.apache.commons.math.optimization.linear.SimplexTableau#214
+org.apache.commons.math.optimization.linear.SimplexTableau#574

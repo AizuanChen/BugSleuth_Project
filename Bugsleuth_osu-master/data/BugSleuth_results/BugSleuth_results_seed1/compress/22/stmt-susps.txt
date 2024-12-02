@@ -1,0 +1,5 @@
+org.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream#384
+org.apache.commons.compress.compressors.bzip2.BZip2CompressorOutputStream#772
+org.apache.commons.compress.archivers.tar.TarArchiveOutputStream#47
+org.apache.commons.compress.archivers.zip.ZipArchiveInputStream#445
+org.apache.commons.compress.archivers.tar.TarArchiveOutputStream#658

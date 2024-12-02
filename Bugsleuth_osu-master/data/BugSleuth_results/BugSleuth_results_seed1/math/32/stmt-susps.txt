@@ -1,0 +1,5 @@
+org.apache.commons.math3.geometry.partitioning.BSPTree#490
+org.apache.commons.math3.geometry.euclidean.threed.PolyhedronsSet#84
+org.apache.commons.math3.geometry.euclidean.threed.PolyhedronsSet#83
+org.apache.commons.math3.geometry.euclidean.twod.PolygonsSet#404
+org.apache.commons.math3.geometry.euclidean.twod.PolygonsSet#136
